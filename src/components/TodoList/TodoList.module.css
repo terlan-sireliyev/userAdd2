@@ -151,6 +151,5 @@ form {
 @media only screen and (max-width: 350px) {
     .desktopInfromOne{
        font-size: 14px;
-       color: red;
-    }
+     }
 }
