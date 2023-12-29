@@ -148,3 +148,8 @@ form {
 .desktopInfromOneBtn button{
     /* margin-top: 10px; */
 }
+@media only screen and (max-width: 400px) {
+    .desktopInfromOne{
+       font-size: 14px;
+    }
+}
